@@ -1,0 +1,4 @@
+Win->terminal
+in terminal "cd '.\OneDrive\Desktop\Drowsiness detection\'"
+in terminal "code ."
+Ctrl + R
