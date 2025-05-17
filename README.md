@@ -24,7 +24,7 @@ A real-time computer vision project using OpenCV and deep learning to detect dri
 📦 Installation
  1. Clone the repository
 
-git clone https://github.com/yourusername/driver-drowsiness-detection.git
+git clone https://github.com/yeshika17/driver-drowsiness-detection.git
 cd driver-drowsiness-detection
 
 
